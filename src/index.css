@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.thumbs-wrapper ul{
+    display:flex !important;
+    justify-content: center !important;
+    }
+
+.drawer-side a.active{
+    color: white;
+ 
+}
+.drawer-side a{
+ 
+    background-color: transparent;
+}
+.custom-my{
+    height: -webkit-fill-available;
+}
